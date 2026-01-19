@@ -1,6 +1,6 @@
 // SimpleCalculatorApplication.java
-// D. Singletary
-// 1/9/2024
+// D. Singletary Kareem Dorset
+// 1/9/2024 1/18/2026
 // Template for calculator application
 
 package edu.fscj.cen3024c.simplecalculator;
